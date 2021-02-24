@@ -1,0 +1,1 @@
+console.log("Bufalo Goes great on... Everythin");
